@@ -1,6 +1,6 @@
 # Case Study Class Assignment: Robinhood
 
-![alt text](https://play-lh.googleusercontent.com/4jJ1C7UePequc2x89CyXRp1a6w7O7nGp1T62WdS_09YGDXQh9xiSREn7w86ifM5Ip6Ba)
+![alt text](Robinhood.png)
 
 ## Description
 -Robinhood is a brokerage app that offers commission free securities transactions to retail investors. Below we will seek to profile the company in a cursory manner.
