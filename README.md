@@ -21,4 +21,5 @@ What is the prognosis for this company? Where do they expect to be in the future
 
 #### Contributors
 -Thomas Scott
+
 -Dean Kim
