@@ -17,7 +17,7 @@ Why is this company exemplary in the FinTech space? What are their strengths and
 -Their primary strength lies in their ubiquity, ease of access and software userfriendliness.
 
 What is the prognosis for this company? Where do they expect to be in the future?
--They face stiff competition as other platforms court retail investors. In addition, they face increased public scrutiny following several lawsuits relating to service outages during the COVID market freefall in spring of 2020 in addition to their nebulous relationship to hedge funds followin short squeezes on AMC and Gamestop.
+-They face stiff competition as other platforms court retail investors. In addition, they face increased public scrutiny following several lawsuits relating to service outages during the COVID market freefall in spring of 2020 in addition to their nebulous relationship to hedge funds following short squeezes on AMC and Gamestop.
 
 #### Contributors
 -Thomas Scott
